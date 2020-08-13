@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning data science and analysis
 - ⚡ Fun fact: I love to play violin!
 
+<br />
+
+---
 
 ### Connect with me:
 
