@@ -1,13 +1,11 @@
 ### Welcome to my Github profile 👋
 
-<!--
-**SvenCelin/SvenCelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## I'm a fulltime student and casual coder!
 - 🔭 I’m currently working on finishing my Master's
 - 🌱 I’m currently learning data science and analysis
 - ⚡ Fun fact: I love to play violin!
--->
+
 
 ### Connect with me:
 
