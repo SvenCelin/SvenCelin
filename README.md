@@ -21,9 +21,6 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)](https://github.com/SvenCelin/)
 
-[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
-
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/SvenCelin/)
 [![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/SvenCelin/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/SvenCelin/)
@@ -37,14 +34,14 @@
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/SvenCelin/)
 [![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)](https://github.com/SvenCelin/)
 
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
-
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/SvenCelin/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/SvenCelin/)
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/SvenCelin/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/SvenCelin/)
+
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
 <br />
 
 --- 
@@ -73,6 +70,8 @@
 
 
 <!---
+[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SvenCelin&repo=VisualAnalytics&theme=white" />
 <img align="center" src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
 >
