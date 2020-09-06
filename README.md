@@ -1,8 +1,4 @@
-
-### Welcome to my Github profile <img src="https://github.com/SvenCelin/SvenCelin/blob/master/Badges/Hi.gif" width="29px">
-
-
-## I'm a fulltime student and casual coder!
+## I'm a fulltime student and casual coder! <img src="https://github.com/SvenCelin/SvenCelin/blob/master/Badges/Hi.gif" width="29px">
 - 🔭 I’m currently working on finishing my Master's
 - 🌱 I’m currently learning data science and analysis
 - ⚡ Fun fact: I love to play violin!
