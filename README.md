@@ -45,8 +45,6 @@
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/SvenCelin/)
 [![Arduino](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/arduino.png)](https://github.com/SvenCelin/)
 
-[![DataScience](<img src="https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png" alt="iot" width="100">)](https://github.com/SvenCelin/)
-
 [![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/SvenCelin/)
 [![IOT](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/iot.png)](https://github.com/SvenCelin/)
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/SvenCelin/)
