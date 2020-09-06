@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning data science and analysis
 - ⚡ Fun fact: I love to play violin!
 
-<br />
-
 ---
 
 ### Languages and Tools:
@@ -50,20 +48,7 @@
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/SvenCelin/)
 [![VisualStudio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/SvenCelin/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/SvenCelin/)
-
-
-<!---
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
---->
-
-
 <br />
-<br />
-
 
 --- 
 
@@ -75,7 +60,6 @@
 
 <img align="center" alt="SvenC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SvenCelin&show_icons=true&hide_border=true" /><br /><br />
 
-
 ---
 
 ### Connect with me:
@@ -85,13 +69,20 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SvenCelin.SvenCelin) <br>
 <br />
 
+[github]: https://github.com/SvenCelin/
+[instagram]: https://www.instagram.com/svencelin/
+[linkedin]: https://www.linkedin.com/in/svencelin/
+
+
 
 <!---
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SvenCelin&repo=VisualAnalytics&theme=white" />
 <img align="center" src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
 >
-
-
-[github]: https://github.com/SvenCelin/
-[instagram]: https://www.instagram.com/svencelin/
-[linkedin]: https://www.linkedin.com/in/svencelin/
+<!---
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
+--->
