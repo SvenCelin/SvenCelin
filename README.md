@@ -19,34 +19,31 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)](https://github.com/SvenCelin/)
 
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/SvenCelin/)
+[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/SvenCelin/)
+[![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/SvenCelin/)
+[![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/SvenCelin/)
 
-
+[![IOT](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/iot.png)](https://github.com/SvenCelin/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
 
-
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/SvenCelin/)
 [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/SvenCelin/)
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/SvenCelin/)
 [![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)](https://github.com/SvenCelin/)
-[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)](https://github.com/SvenCelin/)
+
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/SvenCelin/)
-
-[![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/SvenCelin/)
-[![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/SvenCelin/)
-[![Arduino](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/arduino.png)](https://github.com/SvenCelin/)
-
-[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/SvenCelin/)
-[![IOT](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/iot.png)](https://github.com/SvenCelin/)
-[![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/SvenCelin/)
-[![VisualStudio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/SvenCelin/)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/SvenCelin/)
+[![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/SvenCelin/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/SvenCelin/)
 <br />
 
