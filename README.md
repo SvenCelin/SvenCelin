@@ -1,4 +1,5 @@
-### Welcome to my Github profile 👋
+
+### Welcome to my Github profile <img src="https://github.com/SvenCelin/SvenCelin/blob/master/Badges/Hi.gif" width="29px">
 
 
 ## I'm a fulltime student and casual coder!
@@ -10,36 +11,86 @@
 
 ---
 
+### Languages and Tools:
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+
+[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+
+
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+
+
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/SvenCelin/)
+[![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/SvenCelin/)
+[![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/SvenCelin/)
+[![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)](https://github.com/SvenCelin/)
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)](https://github.com/SvenCelin/)
+[![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/SvenCelin/)
+
+[![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/SvenCelin/)
+[![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/SvenCelin/)
+[![Arduino](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/arduino.png)](https://github.com/SvenCelin/)
+[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/SvenCelin/)
+
+[![IOT](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/iot.png)](https://github.com/SvenCelin/)
+[![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/SvenCelin/)
+[![VisualStudio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/SvenCelin/)
+[![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/SvenCelin/)
+
+
+<!---
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
+>
+
+
+<br />
+<br />
+
+
+--- 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvenCelin&theme=white" /> 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SvenCelin&repo=Information-Visualisation&theme=white" /><br /><br /><br /><br /><br />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SvenCelin&repo=NFC-doorlock---atmega-16a&theme=white" /><br /><br /><br /><br /><br /><br />
+
+<img align="center" alt="SvenC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SvenCelin&show_icons=true&hide_border=true" /><br /><br />
+
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SvenC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SvenCelin.SvenCelin) <br>
 <br />
 
----
 
-### Languages and Tools:
+<!---
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SvenCelin&repo=VisualAnalytics&theme=white" />
+<img align="center" src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
+>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="C" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_128x128.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
-
-
-<br />
-<br />
-
----
-
-<img align="left" alt="SvenC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SvenCelin&show_icons=true&hide_border=true" />
 
 [github]: https://github.com/SvenCelin/
 [instagram]: https://www.instagram.com/svencelin/
