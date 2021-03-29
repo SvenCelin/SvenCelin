@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning data science and analysis
 - ⚡ Fun fact: I love to play violin!
 
+### Connect with me:
+
+[<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SvenC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SvenCelin.SvenCelin)
+
 ---
 
 ### Languages and Tools:
@@ -50,14 +56,6 @@
 
 <img align="center" alt="SvenC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SvenCelin&show_icons=true&hide_border=true" /><br /><br />
 
----
-
-### Connect with me:
-
-[<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SvenC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SvenCelin.SvenCelin) <br>
-<br />
 
 [github]: https://github.com/SvenCelin/
 [instagram]: https://www.instagram.com/svencelin/
