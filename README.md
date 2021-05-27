@@ -12,21 +12,21 @@
 ---
 
 ### Languages and Tools:
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
-[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/SvenCelin/)](https://github.com/TechInnovation-Blockchain/)
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/SvenCelin/)](https://github.com/TechInnovation-Blockchain/)
+[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/SvenCelin/)](https://github.com/TechInnovation-Blockchain/)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
-[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)](https://github.com/SvenCelin/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SvenCelin/)](https://github.com/TechInnovation-Blockchain/) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/SvenCelin/)](https://github.com/TechInnovation-Blockchain/) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/SvenCelin/)](https://github.com/TechInnovation-Blockchain/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SvenCelin/)](https://github.com/TechInnovation-Blockchain/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/SvenCelin/)](https://github.com/TechInnovation-Blockchain/)
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)](https://github.com/TechInnovation-Blockchain/)
 
-[![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/SvenCelin/)
-[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/SvenCelin/)
-[![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/SvenCelin/)
-[![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/SvenCelin/)
+[![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/TechInnovation-Blockchain/)
+[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/TechInnovation-Blockchain/)
+[![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/TechInnovation-Blockchain/)
+[![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/TechInnovation-Blockchain/)
 
 [![IOT](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/iot.png)](https://github.com/SvenCelin/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
@@ -41,9 +41,9 @@
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/SvenCelin/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/SvenCelin/)
 
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SvenCelin/)](https://github.com/SvenCelin/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/SvenCelin/)](https://github.com/TechInnovation-Blockchain/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SvenCelin/)](https://github.com/TechInnovation-Blockchain/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SvenCelin/)](https://github.com/TechInnovation-Blockchain/)
 <br />
 
 --- 
@@ -57,9 +57,7 @@
 <img align="center" alt="SvenC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SvenCelin&show_icons=true&hide_border=true" /><br /><br />
 
 
-[github]: https://github.com/SvenCelin/
-[instagram]: https://www.instagram.com/svencelin/
-[linkedin]: https://www.linkedin.com/in/svencelin/
+[github]: https://github.com/TechInnovation-Blockchain/
 
 
 
