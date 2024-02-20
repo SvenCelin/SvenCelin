@@ -1,6 +1,6 @@
-## I'm a fulltime student and casual coder! <img src="https://github.com/SvenCelin/SvenCelin/blob/master/Badges/Hi.gif" width="29px">
-- 🔭 I’m currently working on finishing my Master's
-- 🌱 I’m currently learning data science and analysis
+## ADAS/AD Research Engineer that sometimes do hobby coding in his free time! <img src="https://github.com/SvenCelin/SvenCelin/blob/master/Badges/Hi.gif" width="29px">
+- 🔭 I’m currently working on finishing my second Master's degree
+- 🌱 I’m currently working as a data scientist and data analyst
 - ⚡ Fun fact: I love to play violin!
 
 ### Connect with me:
